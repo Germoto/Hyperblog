@@ -1,2 +1,2 @@
 # Hyperblog
-repositorio del curso
+repositorio del curso de platzi
